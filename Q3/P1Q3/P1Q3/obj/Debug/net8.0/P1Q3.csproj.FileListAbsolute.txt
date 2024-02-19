@@ -1,0 +1,14 @@
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.AssemblyInfoInputs.cache
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.AssemblyInfo.cs
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\P1Q3\P1Q3\bin\Debug\net8.0\P1Q3.exe
+C:\Users\luanc\source\repos\P1Q3\P1Q3\bin\Debug\net8.0\P1Q3.deps.json
+C:\Users\luanc\source\repos\P1Q3\P1Q3\bin\Debug\net8.0\P1Q3.runtimeconfig.json
+C:\Users\luanc\source\repos\P1Q3\P1Q3\bin\Debug\net8.0\P1Q3.dll
+C:\Users\luanc\source\repos\P1Q3\P1Q3\bin\Debug\net8.0\P1Q3.pdb
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.dll
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\refint\P1Q3.dll
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.pdb
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\P1Q3.genruntimeconfig.cache
+C:\Users\luanc\source\repos\P1Q3\P1Q3\obj\Debug\net8.0\ref\P1Q3.dll
